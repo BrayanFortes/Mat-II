@@ -1,0 +1,10 @@
+<html>: Define o documento HTML e é a tag raiz de todas as páginas web.
+<body>: Contém todo o conteúdo visível da página, como texto, imagens, links e outros elementos.
+<head>: Contém informações sobre o documento HTML, como o título da página, links para folhas de estilo, metadados, etc.
+<title>: Define o título da página, que aparece na aba do navegador e nos resultados de pesquisa.
+<h1> a <h6>: Definem os títulos e subtítulos da página, com <h1> sendo o título principal e <h6> o menor.
+<p>: Define um parágrafo de texto.
+<img>: Inserir imagens na página.
+<style>: contém informações de estilo para um documento ou uma parte do documento.
+<a>: Define um hiperlink, permitindo que os usuários naveguem para outras páginas ou recursos.
+<DOCTYPE!>: é uma instrução para o navegador, informando que o documento é um HTML válido e que ele deve ser interpretado de acordo com as especificações do HTML5
